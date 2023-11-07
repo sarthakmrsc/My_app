@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My app</string>
+    <string name="you_will_receive_an_otp_on_the_phone_number_entered_below">You will receive an OTP on the phone number entered below</string>
+    <string name="enter_your_mobile_number_here" tools:ignore="DuplicateDefinition">Enter your mobile number here</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="_191">+91</string>
+    <string name="enter_your_mobile_number_now">Enter your mobile number here</string>
+    <string name="_291">+91</string>
+    <string name="enter_your_mobile_number_below">Enter your mobile number below</string>
+    <string name="_391">+91</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="send_otp1">Send OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="todo">TODO</string>
+    <string name="didn_t_recieve_the_otp">Didn\'t Recieve the otp?</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="submit_otp">SUBMIT OTP</string>
+</resources>
